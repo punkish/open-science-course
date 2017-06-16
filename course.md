@@ -1,8 +1,8 @@
-title      : Open Science Course
-description: things I would like to learn, knowing what I know now
-modified   : 2017-06-16 14:28:00
-created    : 2017-06-16 14:28:00
-tags       : Göttingen, Germany
+**title      :** Open Science Course  
+**description:** things I would like to learn, knowing what I know now  
+**modified   :** 2017-06-16 14:28:00  
+**created    :** 2017-06-16 14:28:00  
+**tags       :** 
 
 |              | Data | Software / Hardware | Literature | Material Samples |
 | ------------ | ---- | ------------------- | ---------- | ---------------- |
@@ -13,7 +13,7 @@ tags       : Göttingen, Germany
  
 ## Course Outline
  
-- [Versioning](#Versioning)
+- [Versioning](#versioning)
     - Software
         - Git
         - Mercurial
@@ -24,11 +24,11 @@ tags       : Göttingen, Germany
         - GitHub/GitLab for text-based versioning
         - In-software versioning for binary formats (change tracking in Google Docs/MS Word/Apple Pages)
     - Semantic versioning
-- Communities
+- [Communities](#communities)
     - GitHub
     - StackOverflow
     - IRC
-- Repositories
+- [Repositories](#repositories)
     - Private
     - Institutional
     - Persistent IDs
@@ -37,7 +37,7 @@ tags       : Göttingen, Germany
 		- LSID
 		- Ark
 		- URL
-- Publishing
+- [Publishing](#publishing)
     - Literature
     	- Open Access journals
 			- Green v. Gold (institutional)
@@ -51,21 +51,21 @@ tags       : Göttingen, Germany
 	- Software
 		- GitHub/GitLab
 		- BitBucket
-- Text and Data Mining
-- Licensing
+- [Text and Data Mining](#text-and-data-mining)
+- [Licensing](#licensing)
 	- Creative Commons
 		- CC Licenses vs. CC0/PDL
 		- CC Licenses vs. ODbL
 	- GPL
 	- OSI
 	- OpenMTA
-- Giving credit
+- [Giving credit](#giving-credit)
 	- Attribution
 	- Citation
-- Data management plans
-- Web presence
-- APIs
-- Reproducibility
+- [Data management plans](#data-management-plans)
+- [Web presence](#web-presence)
+- [APIs](#apis)
+- [Reproducibility](#reproducibility)
  
 ## Versioning
 
