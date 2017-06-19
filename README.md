@@ -1,10 +1,12 @@
 # open-science-course
 things I would like to learn, knowing what I know now
 
+## [Lessons](lessons/index.md)
+
 ## Acknowldgement
 
-@StilettoFiend for OSTI material  
-@gfranzini for course outline edits  
+[StilettoFiend](https://githun.com/StilettoFiend) for OSTI material  
+[gfranzini](https://githun.com/gfranzini) for course outline edits  
 
 ## License
 
