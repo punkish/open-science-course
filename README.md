@@ -5,8 +5,8 @@
 
 ## Acknowledgement
 
-[StilettoFiend](https://githun.com/StilettoFiend) for OSTI material  
-[gfranzini](https://githun.com/gfranzini) for course outline edits  
+[StilettoFiend](https://github.com/StilettoFiend) for OSTI material  
+[gfranzini](https://github.com/gfranzini) for course outline edits  
 
 ## License
 
