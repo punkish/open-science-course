@@ -17,11 +17,12 @@
 - [Repositories](repositories/index.md)
     - Private
     - Institutional
-	- Self-Archiving (?)
+	- Self-Archiving
 		- ResearchGate
 		- Academia.edu
-	- Open Source Directories (?)
+	- Open Source Directories
 		- Sourceforge
+		- software package registries such as [NPM](https://www.npmjs.com), [CPAN](https://metacpan.org), [CRAN](https://cran.r-project.org) and [PyPI](https://pypi.python.org/pypi)
     - Persistent IDs
 		- DOI
 		- Handle
