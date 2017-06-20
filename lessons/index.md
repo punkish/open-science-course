@@ -1,61 +1,78 @@
 ## Course Outline
  
-- [Versioning](versioning/index.md)
-    - Software
-        - Distributed vs centralized
-    - Data
-        - GitHub/GitLab for text-based versioning
-    - Literature
-        - GitHub/GitLab for text-based versioning
-        - In-software versioning for binary formats (change tracking in Google Docs/MS Word/Apple Pages)
-    - Semantic versioning
-- [Communities](communities/index.md)
-    - GitHub
-    - StackOverflow
-    - IRC
-	- Humanities Commons
-- [Repositories](repositories/index.md)
-    - Private
-    - Institutional
-	- Self-Archiving
-		- ResearchGate
-		- Academia.edu
-	- Open Source Directories
-		- Sourceforge
-		- software package registries such as [NPM](https://www.npmjs.com), [CPAN](https://metacpan.org), [CRAN](https://cran.r-project.org) and [PyPI](https://pypi.python.org/pypi)
-    - Persistent IDs
-		- DOI
-		- Handle
-		- LSID
-		- Ark
-		- URL
-- [Publishing](publishing/index.md)
-    - Literature
-    	- Open Access journals
-			- Green v. Gold (institutional)
-		- Closed journals
-		- Mega journals
-		- Discipline-specific journals
-	- Data
-		- Five Star Data
-		- Linked Open Data
-		- WikiData
-	- Software
-		- GitHub/GitLab
-		- BitBucket
-- [Text and Data Mining](text-and-data-mining/index.md)
-- [Licensing](licensing/index.md)
-	- Creative Commons
-		- CC Licenses vs. CC0/PDL
-		- CC Licenses vs. ODbL
-	- GPL
-	- OSI
-	- OpenMTA
-	- [Open Definition](https://opendefinition.org)
-- [Responsible Researcher](responsible-research/index.md)
-	- Attribution
-	- Citation
-- [Data management plans](data-management-plans/index.md)
-- [Web presence](web-presence/index.md)
-- [APIs](apis/index.md)
-- [Reproducibility](reproducibility/index.md)
+### [Versioning](versioning/index.md)
+- Software
+	- Distributed vs centralized
+- Data
+	- GitHub/GitLab for text-based versioning
+- Literature
+	- GitHub/GitLab for text-based versioning
+	- In-software versioning for binary formats (change tracking in Google Docs/MS Word/Apple Pages)
+- Semantic versioning
+
+### [Communities](communities/index.md)
+- Software
+	- GitHub
+- Programming
+	- StackOverflow
+	- IRC
+- Disciplines
+	- [Humanities Commons](https://hcommons.org)
+
+### [Repositories](repositories/index.md)
+- Private
+- Institutional
+- Self-Archiving
+	- ResearchGate
+	- Academia.edu
+- Open Source Directories
+	- Sourceforge
+	- software package registries such as [NPM](https://www.npmjs.com), [CPAN](https://metacpan.org), [CRAN](https://cran.r-project.org) and [PyPI](https://pypi.python.org/pypi)
+- Persistent IDs
+	- DOI
+	- Handle
+	- LSID
+	- Ark
+	- URL
+
+### [Publishing](publishing/index.md)
+- Literature
+	- Open Access journals
+		- Green v. Gold (institutional)
+	- Closed journals
+	- Mega journals
+	- Discipline-specific journals
+- Data
+	- Five Star Data
+	- Linked Open Data
+	- WikiData
+- Software
+	- GitHub/GitLab
+	- BitBucket
+
+### [Text and Data Mining](text-and-data-mining/index.md)
+- Objectives
+- Potential of TDM
+- Legal Uncertainty
+- Public Sentiment
+
+### [Licensing](licensing/index.md)
+- Creative Commons
+	- CC Licenses vs. CC0/PDL
+	- CC Licenses vs. ODbL
+- GPL
+- OSI
+- OpenMTA
+- [Open Definition](https://opendefinition.org)
+
+### [Responsible Researcher](responsible-research/index.md)
+- Attribution
+- Citation
+
+### [Data management plans](data-management-plans/index.md)
+
+### [Web presence](web-presence/index.md)
+
+### [APIs](apis/index.md)
+
+### [Reproducibility](reproducibility/index.md)

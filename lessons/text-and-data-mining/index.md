@@ -10,6 +10,12 @@
 
 **Public Sentiment:** In a recent comment on proposed UK exception for information mining, both iCommons and the Open Knowledge Foundation supported the UK Government’s opinion that it is inappropriate for “Certain activities of public benefit such as medical research obtained through text mining to be in effect subject to veto by the owners of copyrights in the reports of such research, where access to the reports was obtained lawfully.”<sup id="a4">[4](#f4)</sup> PLOS opined, “Enabling content mining is a core part of the value offering for Open Access publication services.”<sup id="a5">[5](#f5)</sup> In its response to EU copyright review, LIBER stated, “All exceptions related to education, learning and access to knowledge to be made mandatory. In particular, we would like to see a specific exception for text and data mining for all research purposes.”<sup id="a6">[6](#f6)</sup>
 
+### Potential Guest Lecturers
+
+- Peter Murray-Rust, [ContentMine](https://contentmine.org)
+
+### Resources
+
 ## Footnotes
 
 <b id="f1">1.</b> Zhang, C., V. Govindaraju, J. Borchardt, T. Foltz, C. Ré, and S. Peters. 2013. GeoDeepDive: Statistical inference using familiar data-processing languages. SIGMOD ’13, New York, New York. [↩](#a1)

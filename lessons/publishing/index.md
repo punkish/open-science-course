@@ -3,4 +3,8 @@
 **To Do:**  
 - [ ] Contact ElPub folks
 
-**OSTI slides**  
+### Potential Guest Lecturers
+
+### Resources
+
+- [OSTI slides](../osti/MainLectures/Lecture3-Publishing.pdf)
