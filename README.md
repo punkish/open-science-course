@@ -1,7 +1,9 @@
 # open-science-course
 *things I would have liked to learn 20 years ago, knowing what I know now*
 
-## [Lessons](lessons/index.md)
+## Lessons
+
+[Course Outline](lessons/index.md)
 
 ## Acknowledgement
 
