@@ -1,5 +1,5 @@
-## Web Presence
+# Web Presence
 
-### Potential Guest Lecturers
+## Potential Guest Lecturers
 
-### Resources
+## Resources

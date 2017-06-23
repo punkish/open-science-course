@@ -1,7 +1,7 @@
-## Reproducibility
+# Reproducibility
 
-### Potential Guest Lecturers
+## Potential Guest Lecturers
 
-### Resources
+## Resources
 
 - [OSTI slides](../osti/MainLectures/Lecture1A-OpenAndRepro.pdf)

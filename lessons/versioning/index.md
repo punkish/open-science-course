@@ -1,18 +1,18 @@
-## Versioning
+# Versioning
 
-### Software
+## Software
 - Distributed vs centralized
 
-### Data
+## Data
 - GitHub/GitLab for text-based versioning
 
-### Literature
+## Literature
 - GitHub/GitLab for text-based versioning
 - In-software versioning for binary formats (change tracking in Google Docs/MS Word/Apple Pages)
 
-### Semantic versioning
+## Semantic versioning
 
-### Potential Guest Lecturers
+## Potential Guest Lecturers
 
 ### Resources
 

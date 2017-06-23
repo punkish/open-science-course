@@ -1,10 +1,10 @@
-## Data management plans
+# Data management plans
 
 **To Do:** Contact RDM folks
 
-### Potential Guest Lecturers
+## Potential Guest Lecturers
 
-### Resources
+## Resources
 
 - [OSTI slides](../osti/Supplementaries/Supp1-DMP.pdf)
 - [CDL DMP Tool](https://dmptool.org)

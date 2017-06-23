@@ -1,4 +1,4 @@
-## Licensing
+# Licensing
 
 - Creative Commons
 	- CC Licenses vs. CC0/PDL

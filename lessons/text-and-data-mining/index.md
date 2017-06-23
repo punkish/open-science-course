@@ -1,8 +1,11 @@
-## Text and Data Mining
+# Text and Data Mining
 
-**Objectives:** We have two objectives for this series of workshops—
+## Objectives
+
 - Introduction to the basic tools and techniques of text and data mining (TDM)
 - Make participants aware of the legal intricacies of TDM and the implications of choosing the right licenses that enable TDM for downstream users
+
+## Background
 
 **Potential of TDM:** TDM is increasingly becoming an important scientific technique for analyzing large corpora of articles. The technique is used to uncover both existing and new insights in unstructured data sets that typically are obtained programmatically from many different sources. A few of the innovative examples include GeoDeepDive, a system that helps geoscientists discover information and knowledge buried in the text, tables, and figures of geology journal articles;<sup id="a1">[1](#f1)</sup> improving human curation of chemical-gene-disease networks for the Comparative Toxicogenomics Database;<sup id="a2">[2](#f2)</sup> and discovering a new link between genes and osteoporosis.<sup id="a3">[3](#f3)</sup>
 
@@ -10,11 +13,20 @@
 
 **Public Sentiment:** In a recent comment on proposed UK exception for information mining, both iCommons and the Open Knowledge Foundation supported the UK Government’s opinion that it is inappropriate for “Certain activities of public benefit such as medical research obtained through text mining to be in effect subject to veto by the owners of copyrights in the reports of such research, where access to the reports was obtained lawfully.”<sup id="a4">[4](#f4)</sup> PLOS opined, “Enabling content mining is a core part of the value offering for Open Access publication services.”<sup id="a5">[5](#f5)</sup> In its response to EU copyright review, LIBER stated, “All exceptions related to education, learning and access to knowledge to be made mandatory. In particular, we would like to see a specific exception for text and data mining for all research purposes.”<sup id="a6">[6](#f6)</sup>
 
-### Potential Guest Lecturers
+## Content
+
+## Potential Guest Lecturers
 
 - Peter Murray-Rust, [ContentMine](https://contentmine.org)
 
-### Resources
+## Resources
+
+- Presentations
+    - [Legal Implications of TDM](http://punkish.org/Legal-Implications-of-TDM)
+- Software
+    - [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
+    - [Python NLTK](http://www.nltk.org)
+    - [NaturalNode](https://github.com/NaturalNode/natural)
 
 ## Footnotes
 

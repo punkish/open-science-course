@@ -1,4 +1,4 @@
-## Communities
+# Communities
 
 **To Do:** Contact Gö Open Science Meetup folks
 
@@ -10,6 +10,6 @@
 - Disciplines
     - [Humanities Commons](https://hcommons.org)
 
-### Potential Guest Lecturers
+## Potential Guest Lecturers
 
-### Resources
+## Resources

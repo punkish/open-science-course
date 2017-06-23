@@ -7,7 +7,7 @@
 
 ## Contributing
 
-Contributions are welcome. However, please note that since everything made for this project is being released under a [CC0 Public Domain Dedication](LICENSE), your contributions have to be so as well. If you are cool with waiving all your rights in your work, feel free to send me a pull request.
+Contributions are welcome. However, please note that since everything made specifically for this project is being released under a [CC0 Public Domain Dedication](LICENSE), your contributions have to be so as well. If you are ok with waiving all your rights in your work, feel free to send me a pull request.     
 
 ## Acknowledgement
 

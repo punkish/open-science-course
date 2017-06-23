@@ -1,78 +1,39 @@
 ## Course Outline
  
 ### [Versioning](versioning/index.md)
-- Software
-	- Distributed vs centralized
-- Data
-	- GitHub/GitLab for text-based versioning
-- Literature
-	- GitHub/GitLab for text-based versioning
-	- In-software versioning for binary formats (change tracking in Google Docs/MS Word/Apple Pages)
-- Semantic versioning
+
+> A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision". For example, an initial set of files is "revision 1". When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
+
+– Version control. In Wikipedia. Retrieved Jun 2017, from https://en.wikipedia.org/wiki/Version_control
 
 ### [Communities](communities/index.md)
-- Software
-	- GitHub
-- Programming
-	- StackOverflow
-	- IRC
-- Disciplines
-	- [Humanities Commons](https://hcommons.org)
+
+Developer and user communities such as StackOverflow, PerlMonks and channels on the IRC
 
 ### [Repositories](repositories/index.md)
-- Private
-- Institutional
-- Self-Archiving
-	- ResearchGate
-	- Academia.edu
-- Open Source Directories
-	- Sourceforge
-	- software package registries such as [NPM](https://www.npmjs.com), [CPAN](https://metacpan.org), [CRAN](https://cran.r-project.org) and [PyPI](https://pypi.python.org/pypi)
-- Persistent IDs
-	- DOI
-	- Handle
-	- LSID
-	- Ark
-	- URL
+
+Literature, software and data repositories
 
 ### [Publishing](publishing/index.md)
-- Literature
-	- Open Access journals
-		- Green v. Gold (institutional)
-	- Closed journals
-	- Mega journals
-	- Discipline-specific journals
-- Data
-	- Five Star Data
-	- Linked Open Data
-	- WikiData
-- Software
-	- GitHub/GitLab
-	- BitBucket
+
 
 ### [Text and Data Mining](text-and-data-mining/index.md)
-- Objectives
-- Potential of TDM
-- Legal Uncertainty
-- Public Sentiment
+
 
 ### [Licensing](licensing/index.md)
-- Creative Commons
-	- CC Licenses vs. CC0/PDL
-	- CC Licenses vs. ODbL
-- GPL
-- OSI
-- OpenMTA
-- [Open Definition](https://opendefinition.org)
+
 
 ### [Responsible Researcher](responsible-research/index.md)
-- Attribution
-- Citation
+
 
 ### [Data management plans](data-management-plans/index.md)
 
 ### [Web presence](web-presence/index.md)
 
 ### [APIs](apis/index.md)
+
+> In computer programming, an application programming interface (API) is a set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer. An API may be for a web-based system, operating system, database system, computer hardware or software library. An API specification can take many forms, but often includes specifications for routines, data structures, object classes, variables or remote calls. POSIX, Microsoft Windows API, the C++ Standard Template Library and Java APIs are examples of different forms of APIs. Documentation for the API is usually provided to facilitate usage.
+
+– Application programming interface. In Wikipedia. Retrieved Jun 2017, from https://en.wikipedia.org/wiki/Application_programming_interface
 
 ### [Reproducibility](reproducibility/index.md)
