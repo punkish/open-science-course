@@ -58,6 +58,14 @@ What is a data management plan. [FAQ CDLUC3. Retrieved June 2017](https://github
 
 ### [Web Presence](web-presence/index.md)
 
+<blockquote>
+Is web-presence important for researchers? How important is web-presence to researchers? How does its importance vary by fields?
+<br>
+Having a visible online presence is just another form of networking. Similarly, if you want to attract good students, they have to know who you are, they have to know what you do, and they have to think what you do is interesting. Similarly, if your work is not freely and easily accessible on the web, it is much less likely to be cited than freely accessible work of comparable quality.
+</blockquote>
+
+@JeffE. Academia Stack Exchange. [Retrieved June 2017](https://academia.stackexchange.com/questions/616/is-web-presence-important-for-researchers/620)
+
 ### [APIs](apis/index.md)
 
 > In computer programming, an application programming interface (API) is a set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer. An API may be for a web-based system, operating system, database system, computer hardware or software library. An API specification can take many forms, but often includes specifications for routines, data structures, object classes, variables or remote calls. POSIX, Microsoft Windows API, the C++ Standard Template Library and Java APIs are examples of different forms of APIs. Documentation for the API is usually provided to facilitate usage.
@@ -65,3 +73,8 @@ What is a data management plan. [FAQ CDLUC3. Retrieved June 2017](https://github
 – Application programming interface. [In Wikipedia. Retrieved June 2017](https://en.wikipedia.org/wiki/Application_programming_interface)
 
 ### [Reproducibility](reproducibility/index.md)
+
+> Reproducibility—the ability to recompute results—and replicability—the chances other experimenters will achieve a consistent result—are two foundational characteristics of successful scientific research. Consistent findings from independent investigators are the primary means by which scientific evidence accumulates for or against a hypothesis. Yet, of late, there has been a crisis of confidence among researchers worried about the rate at which studies are either reproducible or replicable. To maintain the integrity of science research and the public’s trust in science, the scientific community must ensure reproducibility and replicability by engaging in a more preventative approach that greatly expands data analysis education and routinely uses software tools.
+
+– Jeffrey T. Leek and Roger D. Peng 
+Opinion: Reproducible research can still be wrong: Adopting a prevention approach. [PNAS 2015 112: 1645-1646. Retrieved June 2017](http://www.pnas.org/content/112/6/1645.full)
