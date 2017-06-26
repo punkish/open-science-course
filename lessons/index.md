@@ -132,6 +132,10 @@ Use of large online text collections to discover new facts and trends
 
 ### [Data Citation](data-citation/index.md)
 
+> Sound, reproducible scholarship rests upon a foundation of robust, accessible data. For this to be so in practice as well as theory, data must be accorded due importance in the practice of scholarship and in the enduring scholarly record. In other words, data should be considered legitimate, citable products of research. Data citation, like the citation of other evidence and sources, is good research practice and is part of the scholarly ecosystem supporting data reuse.
+
+<cite>Data Citation Synthesis Group. [Joint Declaration of Data Citation Principles](https://www.force11.org/group/joint-declaration-data-citation-principles-final). Martone M. (ed.) San Diego CA: FORCE11; 2014</cite>
+
 ### [Web Presence](web-presence/index.md)
 
 <blockquote>
