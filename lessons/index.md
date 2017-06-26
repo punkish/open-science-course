@@ -1,7 +1,7 @@
 ## Course Outline
 
-<figure style="width: 100%; position: relative;">
-    <img src="research-lifecycle.png" width="376" style="max-width: 376px; position: absolute; !important;">
+<figure>
+    <img src="research-lifecycle.png" width="100%">
     <figcaption>research lifecycle</figcaption>
 </figure>
 
