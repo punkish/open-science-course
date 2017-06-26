@@ -1,11 +1,9 @@
-## Course Outline
-
 <figure>
     <img src="research-lifecycle.png" width="100%">
     <figcaption>research lifecycle</figcaption>
 </figure>
 
-<table>
+<table width="100%">
     <thead>
         <tr>
             <th>lifecycle step</th>
@@ -74,6 +72,8 @@
         </tr>
     </tbody>
 </table>
+
+## Course Outline
 
 ### [Searching](searching/index.md)
 
