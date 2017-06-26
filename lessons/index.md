@@ -5,6 +5,20 @@
     <figcaption>research lifecycle</figcaption>
 </figure>
 
++---------------------+--------------------------+
+| search              |                          |
++---------------------+--------------------------+
+| access              |                          |
++---------------------+--------------------------+
+| hypothesize         |                          |
++---------------------+--------------------------+
+| test the hyposthesis|                          |
++---------------------+--------------------------+
+| report              |                          |
++---------------------+--------------------------+
+| archive             |                          |
++---------------------+--------------------------+
+
 ### [Searching](searching/index.md)
 
 A better way to search for open content through “visual interface that dramatically increases the visibility of research findings for science and society alike” – [Open Knowledge Maps](https://openknowledgemaps.org/)
