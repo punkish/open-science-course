@@ -1,3 +1,9 @@
+<style>
+cite {
+    font-weight: bold;
+}
+</style>
+
 ## Course Outline
 
 <figure style="width: 100%; position: relative;">
@@ -75,7 +81,8 @@
             </td>
         </tr>
         <tr>
-            <td colspan="2"><a href="#responsible-research">responsible research</a></td>
+            <td>ethical behavior</td>
+            <td><a href="#responsible-research">responsible research</a></td>
         </tr>
     </tbody>
 </table>
