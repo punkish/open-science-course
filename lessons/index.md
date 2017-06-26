@@ -5,28 +5,76 @@
     <figcaption>research lifecycle</figcaption>
 </figure>
 
-
-step                | activity                       
---------------------|--------------------------
-search              |
---------------------|--------------------------
-access              |                          
---------------------|--------------------------
-hypothesize         |                         
---------------------|-------------------------- 
-test the hyposthesis|
-- design            |
-- collect data      |
-- analyze           |
-- visualize         |
---------------------|--------------------------
-report              |
-- journals          |
-- conferences       |
-- website           |                          
---------------------|--------------------------
-archive             |                          
-
+<table>
+    <thead>
+        <tr>
+            <th>step</th>
+            <th>activity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>search</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>access</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>hypothesize</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                test the hyposthesis
+                <ul>
+                    <li>design</li>
+                    <li>collect data</li>
+                    <li>analyze</li>
+                    <li>visualize</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>DMPs</li>
+                    <li>communities</li>
+                    <li>text mining</li>
+                    <li>versioning</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                report
+                <ul>
+                    <li>journals</li>
+                    <li>conferences</li>
+                    <li>website</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>data citation</li>
+                    <li>web presence</li>
+                    <li>licensing</li>
+                    <li>reproducibility</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>archive</td>
+            <td>
+                <ul>
+                    <li>data citation</li>
+                    <li>repositories</li>
+                    <li>APIs</li>
+                    <li>reproducibility</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### [Searching](searching/index.md)
 
