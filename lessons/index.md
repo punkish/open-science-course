@@ -9,10 +9,22 @@
 step                | activity                       
 --------------------|--------------------------
 search              |
+--------------------|--------------------------
 access              |                          
-hypothesize         |                          
-test the hyposthesis|                          
-report              |                          
+--------------------|--------------------------
+hypothesize         |                         
+--------------------|-------------------------- 
+test the hyposthesis|
+- design            |
+- collect data      |
+- analyze           |
+- visualize         |
+--------------------|--------------------------
+report              |
+- journals          |
+- conferences       |
+- website           |                          
+--------------------|--------------------------
 archive             |                          
 
 
