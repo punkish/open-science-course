@@ -1,9 +1,19 @@
-# open-science-course
+# open science course
 *things I would have liked to learn 20 years ago, knowing what I know now*
 
 ## Lessons
 
-[Course Outline](lessons/index.md)
+### Course Outline
+
+Please note, the [Course Outline](lessons/index.md) is not in the final sequence of instruction yet. Also, while all modules are important, one can pick and choose from the modules for a shorter course.
+
+### Course Strategy
+
+The course is designed as a series of modules of topics relevant to an open research lifecycle. Each module would take two “contact hours” per week.<sup id="a1">[1](#f1)</sup> In the first contact, there would be a 20 mins long presentation to introduce the topic followed by 40 mins of a hands-on exercise. The course participants would be expected to continue working on the exercise on their own. In the second contact hour, the script would be flipped, with a 40 mins hands-on session where the participants present and discuss their work, followed by a 20 mins concluding presentation.
+
+## Footnotes
+
+<b id="f1">1.</b> A “contact hour” could be an hour long or could also be an hour and a half long, with the presentation-exercise split adjusted accordingly.
 
 ## Contributing
 
