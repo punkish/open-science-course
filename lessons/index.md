@@ -27,7 +27,7 @@
         </tr>
         <tr>
             <td>
-                test the hyposthesis
+                test the hypothesis
                 <ul>
                     <li>design</li>
                     <li>collect data</li>
@@ -36,12 +36,10 @@
                 </ul>
             </td>
             <td>
-                <ul>
-                    <li><a href="#data-management-plans">DMPs</a></li>
-                    <li><a href="#communities">communities</a></li>
-                    <li><a href="#text-and-data-mining">text and data mining</a></li>
-                    <li><a href="#versioning">versioning</a></li>
-                </ul>
+                <a href="#data-management-plans">DMPs</a><br>
+                <a href="#communities">communities</a><br>
+                <a href="#text-and-data-mining">text and data mining</a><br>
+                <a href="#versioning">versioning</a>
             </td>
         </tr>
         <tr>
@@ -54,24 +52,20 @@
                 </ul>
             </td>
             <td>
-                <ul>
-                    <li><a href="#data-citation">data citation</a></li>
-                    <li><a href="#web-presence">web presence</a></li>
-                    <li><a href="#licensing">licensing</a></li>
-                    <li><a href="#publishing">publishing</a></li>
-                    <li><a href="#reproducibility">reproducibility</a></li>
-                </ul>
+                <a href="#data-citation">data citation</a><br>
+                <a href="#web-presence">web presence</a><br>
+                <a href="#licensing">licensing</a><br>
+                <a href="#publishing">publishing</a><br>
+                <a href="#reproducibility">reproducibility</a>
             </td>
         </tr>
         <tr>
             <td>archive</td>
             <td>
-                <ul>
-                    <li><a href="#data-citation">data citation</a></li>
-                    <li><a href="#repositories">repositories</a></li>
-                    <li><a href="#apis">APIs</a></li>
-                    <li><a href="#reproducibility">reproducibility</a></li>
-                </ul>
+                <a href="#data-citation">data citation</a><br>
+                <a href="#repositories">repositories</a><br>
+                <a href="#apis">APIs</a><br>
+                <a href="#reproducibility">reproducibility</a>
             </td>
         </tr>
         <tr>
