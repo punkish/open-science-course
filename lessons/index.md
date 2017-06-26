@@ -8,18 +8,18 @@
 <table>
     <thead>
         <tr>
-            <th>step</th>
-            <th>activity</th>
+            <th>lifecycle step</th>
+            <th>research activity</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>search</td>
-            <td></td>
+            <td>search</td>
         </tr>
         <tr>
             <td>access</td>
-            <td></td>
+            <td>understanding the licenses</td>
         </tr>
         <tr>
             <td>hypothesize</td>
