@@ -1,5 +1,14 @@
 ## Course Outline
- 
+
+<figure>
+    <img src="research-lifecycle.png" width="376">
+    <figcaption>research lifecycle</figcaption>
+</figure>
+
+### [Searching](searching/index.md)
+
+A better way to search for open content through “visual interface that dramatically increases the visibility of research findings for science and society alike” – [Open Knowledge Maps](https://openknowledgemaps.org/)
+
 ### [Versioning](versioning/index.md)
 
 > A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision". For example, an initial set of files is "revision 1". When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
@@ -34,7 +43,7 @@ Use of large online text collections to discover new facts and trends
 
 ### [Licensing](licensing/index.md)
 
-Licensing is the act of applying a
+Licensing is the act of applying a license.
 
 > A license, (that is,) is an official permission or permit to do, use, or own something (as well as the document of that permission or permit) … A licensor may grant a license under intellectual property laws to authorize a use (such as copying software or using a (patented) invention) to a licensee, sparing the licensee from a claim of infringement brought by the licensor.
 

@@ -1,5 +1,8 @@
-# open science course
+# Open Science Course
 *things I would have liked to learn 20 years ago, knowing what I know now*
+
+The call for practicing open science is resonating all over the world. Citizens groups, civil society agencies, scientific societies, activists, government organizations and funding agencies, all want scientists and their science to be open. Increasingly, there are innovative and helpful resources available for every step of the scientific information lifecycle. But one thing is conspicuous by its absence – training. We want our scientists to practice open science, but there is really no place they can learn how to do that systematically. This course aims to fill that gap.
+
 
 ## Lessons
 
