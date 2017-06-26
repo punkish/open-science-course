@@ -63,7 +63,7 @@ Licensing is the act of applying a license.
 
 > A data management plan is a formal document that outlines what you will do with your data during and after a research project. Most researchers collect data with some form of plan in mind, but it's often inadequately documented and incompletely thought out. Many data management issues can be handled easily or avoided entirely by planning ahead. With the right process and framework it doesn't take too long and can pay off enormously in the long run.
 
-<cite>CDL. [What is a data management plan]. [FAQ CDLUC3. Retrieved June 2017](https://github.com/CDLUC3/dmptool/wiki/FAQ#q-what-is-a-data-management-plan-dmp)</cite>
+<cite>FAQ CDLUC3. [What is a data management plan](https://github.com/CDLUC3/dmptool/wiki/FAQ#q-what-is-a-data-management-plan-dmp). CDL. Retrieved June 2017]</cite>
 
 ### [Web Presence](web-presence/index.md)
 
