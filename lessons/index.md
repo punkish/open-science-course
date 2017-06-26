@@ -1,9 +1,3 @@
-<style>
-cite {
-    font-weight: bold;
-}
-</style>
-
 ## Course Outline
 
 <figure style="width: 100%; position: relative;">
