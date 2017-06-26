@@ -15,11 +15,11 @@
     <tbody>
         <tr>
             <td>search</td>
-            <td>search</td>
+            <td><a href="#searching">search</a></td>
         </tr>
         <tr>
             <td>access</td>
-            <td>understanding the licenses</td>
+            <td><a href="#licensing">understanding the licenses</a></td>
         </tr>
         <tr>
             <td>hypothesize</td>
@@ -37,10 +37,10 @@
             </td>
             <td>
                 <ul>
-                    <li>DMPs</li>
-                    <li>communities</li>
-                    <li>text mining</li>
-                    <li>versioning</li>
+                    <li><a href="#data-management-plans">DMPs</a></li>
+                    <li><a href="#communities">communities</a></li>
+                    <li><a href="#text-and-data-mining">text and data mining</a></li>
+                    <li><a href="#versioning">versioning</a></li>
                 </ul>
             </td>
         </tr>
@@ -55,10 +55,11 @@
             </td>
             <td>
                 <ul>
-                    <li>data citation</li>
-                    <li>web presence</li>
-                    <li>licensing</li>
-                    <li>reproducibility</li>
+                    <li><a href="#data-citation">data citation</a></li>
+                    <li><a href="#web-presence">web presence</a></li>
+                    <li><a href="#licensing">licensing</a></li>
+                    <li><a href="#publishing">publishing</a></li>
+                    <li><a href="#reproducibility">reproducibility</a></li>
                 </ul>
             </td>
         </tr>
@@ -66,12 +67,15 @@
             <td>archive</td>
             <td>
                 <ul>
-                    <li>data citation</li>
-                    <li>repositories</li>
-                    <li>APIs</li>
-                    <li>reproducibility</li>
+                    <li><a href="#data-citation">data citation</a></li>
+                    <li><a href="#repositories">repositories</a></li>
+                    <li><a href="#apis">APIs</a></li>
+                    <li><a href="#reproducibility">reproducibility</a></li>
                 </ul>
             </td>
+        </tr>
+        <tr>
+            <td colspan="2"><a href="#responsible-research">responsible research</a></td>
         </tr>
     </tbody>
 </table>
@@ -79,38 +83,6 @@
 ### [Searching](searching/index.md)
 
 A better way to search for open content through “visual interface that dramatically increases the visibility of research findings for science and society alike” – [Open Knowledge Maps](https://openknowledgemaps.org/)
-
-### [Versioning](versioning/index.md)
-
-> A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision". For example, an initial set of files is "revision 1". When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
-
-<cite>[Version control](https://en.wikipedia.org/wiki/Version_control). In Wikipedia. Retrieved June 2017</cite>
-
-### [Communities](communities/index.md)
-
-Developer and user communities such as [StackOverflow](https://stackoverflow.com), [PerlMonks](http://perlmonks.org), [CodePen](https://codepen.io) and channels on the [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat), are valuable resources for programmers. GitHub itself has issues tracking for the source code hosted on it, as do other source code and software hosting sites. These issues tracking systems are a valuable resource for asking software-specific questions.
-
-### [Repositories](repositories/index.md)
-
-Literature, [software](https://en.wikipedia.org/wiki/Software_repository) and [data](https://en.wikipedia.org/wiki/Research_data_archiving#Data_archives) repositories are essential to archival and discovery of scientific content. Choosing the right repository depends on not just its relevance to one’s content and discipline, but also archival and distribution policies, licenses, and longevity.
-
-### [Publishing](publishing/index.md)
-
-> Academic publishing is the subfield of publishing which distributes academic research and scholarship. Most academic work is published in academic journal article, book or thesis form. The part of academic written output that is not formally published but merely printed up or posted on the Internet is often called "grey literature". Most scientific and scholarly journals, and many academic and scholarly books, though not all, are based on some form of peer review or editorial refereeing to qualify texts for publication. Peer review quality and selectivity standards vary greatly from journal to journal, publisher to publisher, and field to field.
-
-<cite>[Academic publishing](https://en.wikipedia.org/wiki/Academic_publishing). In Wikipedia. Retrieved June 2017</cite>
-
-### [Text and Data Mining](text-and-data-mining/index.md)
-
-<blockquote>
-(semi)automated discovery of trends and patterns across very large datasets
-…
-Use of large online text collections to discover new facts and trends
-…
-(Automating) the tedious parts of the text manipulation process and (integrating) underlying computationally-driven text analysis with human-guided decision making within exploratory data analysis over text
-</blockquote>
-
-<cite>Marti A. Hearst. 1999. [Untangling text data mining](http://dl.acm.org/citation.cfm?doid=1034678.1034679). In Proceedings of the 37th annual meeting of the Association for Computational Linguistics(ACL '99), Stroudsburg, PA, USA, 3-10. doi: 10.3115/1034678.1034679</cite>
 
 ### [Licensing](licensing/index.md)
 
@@ -124,17 +96,41 @@ Licensing is the act of applying a license.
 
 <cite>[About the Licenses](https://creativecommons.org/licenses/). CreativeCommons.org. Retrieved June 2017</cite>
 
-### [Responsible Research](responsible-research/index.md)
+### [Publishing](publishing/index.md)
 
-> researchers need to be open with others for re- search to progress. All researchers deserve to work inde- pendently as they balance the competing considerations of whether their hypotheses are supported or not. But they ul- timately need to convey to others their conclusions and the evidence and reasoning on which their conclusions are based so that those conclusions can be examined and extended. For the empirical and experimental sciences, this requires careful storage of data and making the data and other infor- mation underlying reported results publicly available.
+> Academic publishing is the subfield of publishing which distributes academic research and scholarship. Most academic work is published in academic journal article, book or thesis form. The part of academic written output that is not formally published but merely printed up or posted on the Internet is often called "grey literature". Most scientific and scholarly journals, and many academic and scholarly books, though not all, are based on some form of peer review or editorial refereeing to qualify texts for publication. Peer review quality and selectivity standards vary greatly from journal to journal, publisher to publisher, and field to field.
 
-<cite>InterAcademy Partnership. [Doing Global Science: A Guide to Responsible Conduct in the Global Research Enterprise](http://interacademycouncil.com/File.aspx?id=29431). Princeton University Press. Retrieved June 2017</cite>
+<cite>[Academic publishing](https://en.wikipedia.org/wiki/Academic_publishing). In Wikipedia. Retrieved June 2017</cite>
 
 ### [Data Management Plans](data-management-plans/index.md)
 
 > A data management plan is a formal document that outlines what you will do with your data during and after a research project. Most researchers collect data with some form of plan in mind, but it's often inadequately documented and incompletely thought out. Many data management issues can be handled easily or avoided entirely by planning ahead. With the right process and framework it doesn't take too long and can pay off enormously in the long run.
 
 <cite>FAQ CDLUC3. [What is a data management plan](https://github.com/CDLUC3/dmptool/wiki/FAQ#q-what-is-a-data-management-plan-dmp). CDL. Retrieved June 2017]</cite>
+
+### [Communities](communities/index.md)
+
+Developer and user communities such as [StackOverflow](https://stackoverflow.com), [PerlMonks](http://perlmonks.org), [CodePen](https://codepen.io) and channels on the [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat), are valuable resources for programmers. GitHub itself has issues tracking for the source code hosted on it, as do other source code and software hosting sites. These issues tracking systems are a valuable resource for asking software-specific questions.
+
+### [Text and Data Mining](text-and-data-mining/index.md)
+
+<blockquote>
+(semi)automated discovery of trends and patterns across very large datasets
+…
+Use of large online text collections to discover new facts and trends
+…
+(Automating) the tedious parts of the text manipulation process and (integrating) underlying computationally-driven text analysis with human-guided decision making within exploratory data analysis over text
+</blockquote>
+
+<cite>Marti A. Hearst. 1999. [Untangling text data mining](http://dl.acm.org/citation.cfm?doid=1034678.1034679). In Proceedings of the 37th annual meeting of the Association for Computational Linguistics(ACL '99), Stroudsburg, PA, USA, 3-10. doi: 10.3115/1034678.1034679</cite>
+
+### [Versioning](versioning/index.md)
+
+> A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision". For example, an initial set of files is "revision 1". When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
+
+<cite>[Version control](https://en.wikipedia.org/wiki/Version_control). In Wikipedia. Retrieved June 2017</cite>
+
+### [Data Citation](data-citation/index.md)
 
 ### [Web Presence](web-presence/index.md)
 
@@ -145,6 +141,10 @@ Having a visible online presence is just another form of networking. Similarly, 
 </blockquote>
 
 <cite>@JeffE. [“Answer to Question 'Is web-presence important for researchers?'”](https://academia.stackexchange.com/questions/616/is-web-presence-important-for-researchers/620). March 2012. Retrieved June 2017</cite>
+
+### [Repositories](repositories/index.md)
+
+Literature, [software](https://en.wikipedia.org/wiki/Software_repository) and [data](https://en.wikipedia.org/wiki/Research_data_archiving#Data_archives) repositories are essential to archival and discovery of scientific content. Choosing the right repository depends on not just its relevance to one’s content and discipline, but also archival and distribution policies, licenses, and longevity.
 
 ### [APIs](apis/index.md)
 
@@ -158,3 +158,9 @@ Having a visible online presence is just another form of networking. Similarly, 
 
 <cite>Jeffrey T. Leek and Roger D. Peng 
 [Opinion: Reproducible research can still be wrong: Adopting a prevention approach](http://www.pnas.org/content/112/6/1645.full). PNAS 2015 112: 1645-1646. Retrieved June 2017</cite>
+
+### [Responsible Research](responsible-research/index.md)
+
+> researchers need to be open with others for re- search to progress. All researchers deserve to work inde- pendently as they balance the competing considerations of whether their hypotheses are supported or not. But they ul- timately need to convey to others their conclusions and the evidence and reasoning on which their conclusions are based so that those conclusions can be examined and extended. For the empirical and experimental sciences, this requires careful storage of data and making the data and other infor- mation underlying reported results publicly available.
+
+<cite>InterAcademy Partnership. [Doing Global Science: A Guide to Responsible Conduct in the Global Research Enterprise](http://interacademycouncil.com/File.aspx?id=29431). Princeton University Press. Retrieved June 2017</cite>
