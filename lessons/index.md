@@ -3,7 +3,7 @@
     <figcaption>research lifecycle</figcaption>
 </figure>
 
-<table width="100%">
+<table>
     <thead>
         <tr>
             <th>lifecycle step</th>
@@ -13,11 +13,11 @@
     <tbody>
         <tr>
             <td>search</td>
-            <td><a href="#searching">search</a></td>
+            <td><img src="search.gif" width="37" height="37"> <a href="#searching">search</a></td>
         </tr>
         <tr>
             <td>access</td>
-            <td><a href="#licensing">understanding the licenses</a></td>
+            <td><img src="licenses.gif" width="37" height="37"> <a href="#licensing">understanding the licenses</a></td>
         </tr>
         <tr>
             <td>hypothesize</td>
@@ -34,10 +34,10 @@
                 </ul>
             </td>
             <td>
-                <a href="#data-management-plans">DMPs</a><br>
-                <a href="#communities">communities</a><br>
+                <img src="dmps.gif" width="37" height="37"> <a href="#data-management-plans">DMPs</a><br>
+                <img src="communities.gif" width="37" height="37"> <a href="#communities">communities</a><br>
                 <a href="#text-and-data-mining">text and data mining</a><br>
-                <a href="#versioning">versioning</a>
+                <img src="versioning.gif" width="37" height="37"> <a href="#versioning">versioning</a>
             </td>
         </tr>
         <tr>
@@ -50,9 +50,9 @@
                 </ul>
             </td>
             <td>
-                <a href="#data-citation">data citation</a><br>
-                <a href="#web-presence">web presence</a><br>
-                <a href="#licensing">licensing</a><br>
+                <img src="citation.gif" width="37" height="37"> <a href="#data-citation">data citation</a><br>
+                <img src="homepage.gif" width="37" height="37"> <a href="#web-presence">web presence</a><br>
+                <img src="licenses.gif" width="37" height="37"> <a href="#licensing">licensing</a><br>
                 <a href="#publishing">publishing</a><br>
                 <a href="#reproducibility">reproducibility</a>
             </td>
