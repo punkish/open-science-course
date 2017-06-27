@@ -35,7 +35,7 @@
             </td>
             <td>
                 <img src="dmps.gif" width="37" height="37"> <a href="#data-management-plans">DMPs</a><br>
-                <img src="communities.gif" width="37" height="37"> <a href="#communities">communities</a><br>
+                <img src="community.gif" width="37" height="37"> <a href="#communities">communities</a><br>
                 <a href="#text-and-data-mining">text and data mining</a><br>
                 <img src="versioning.gif" width="37" height="37"> <a href="#versioning">versioning</a>
             </td>
@@ -60,8 +60,8 @@
         <tr>
             <td>archive</td>
             <td>
-                <a href="#data-citation">data citation</a><br>
-                <a href="#repositories">repositories</a><br>
+                <img src="citation.gif" width="37" height="37"> <a href="#data-citation">data citation</a><br>
+                <img src="repository.gif" width="37" height="37"> <a href="#repositories">repositories</a><br>
                 <a href="#apis">APIs</a><br>
                 <a href="#reproducibility">reproducibility</a>
             </td>
