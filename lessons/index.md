@@ -20,12 +20,8 @@
             <td><img src="licenses.gif" width="37" height="37"> <a href="#licensing">understanding the licenses</a></td>
         </tr>
         <tr>
-            <td>hypothesize</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>
-                test the hypothesis
+            <td rowspan="3">
+                hypothesize and test
                 <ul>
                     <li>design</li>
                     <li>collect data</li>
@@ -34,9 +30,21 @@
                 </ul>
             </td>
             <td>
-                <img src="dmps.gif" width="37" height="37"> <a href="#data-management-plans">DMPs</a><br>
-                <img src="community.gif" width="37" height="37"> <a href="#communities">communities</a><br>
-                <a href="#text-and-data-mining">text and data mining</a><br>
+                <img src="dmps.gif" width="37" height="37"> <a href="#data-management-plans">DMPs</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="community.gif" width="37" height="37"> <a href="#communities">communities</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#text-and-data-mining">text and data mining</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <img src="versioning.gif" width="37" height="37"> <a href="#versioning">versioning</a>
             </td>
         </tr>
@@ -53,8 +61,8 @@
                 <img src="citation.gif" width="37" height="37"> <a href="#data-citation">data citation</a><br>
                 <img src="homepage.gif" width="37" height="37"> <a href="#web-presence">web presence</a><br>
                 <img src="licenses.gif" width="37" height="37"> <a href="#licensing">licensing</a><br>
-                <a href="#publishing">publishing</a><br>
-                <a href="#reproducibility">reproducibility</a>
+                <img src="publishing.gif" width="37" height="37"> <a href="#publishing">publishing</a><br>
+                <img src="reproducible.gif" width="37" height="37"> <a href="#reproducibility">reproducibility</a>
             </td>
         </tr>
         <tr>
@@ -62,8 +70,8 @@
             <td>
                 <img src="citation.gif" width="37" height="37"> <a href="#data-citation">data citation</a><br>
                 <img src="repository.gif" width="37" height="37"> <a href="#repositories">repositories</a><br>
-                <a href="#apis">APIs</a><br>
-                <a href="#reproducibility">reproducibility</a>
+                <img src="api.gif" width="37" height="37"> <a href="#apis">APIs</a><br>
+                <img src="reproducible.gif" width="37" height="37"> <a href="#reproducibility">reproducibility</a>
             </td>
         </tr>
         <tr>
