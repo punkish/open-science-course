@@ -104,7 +104,7 @@
         </tr>
         <tr>
             <td>ethical behavior</td>
-            <td><a href="#responsible-research">responsible research</a></td>
+            <td><img src="repsonsible.gif" width="37" height="37"> <a href="#responsible-research">responsible research</a></td>
         </tr>
     </tbody>
 </table>
