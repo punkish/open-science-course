@@ -20,7 +20,7 @@
             <td><img src="licenses.gif" width="37" height="37"> <a href="#licensing">understanding the licenses</a></td>
         </tr>
         <tr>
-            <td rowspan="3">
+            <td rowspan="4">
                 hypothesize and test
                 <ul>
                     <li>design</li>
@@ -49,7 +49,7 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td rowspan="5">
                 report
                 <ul>
                     <li>journals</li>
@@ -58,19 +58,47 @@
                 </ul>
             </td>
             <td>
-                <img src="citation.gif" width="37" height="37"> <a href="#data-citation">data citation</a><br>
-                <img src="homepage.gif" width="37" height="37"> <a href="#web-presence">web presence</a><br>
-                <img src="licenses.gif" width="37" height="37"> <a href="#licensing">licensing</a><br>
-                <img src="publishing.gif" width="37" height="37"> <a href="#publishing">publishing</a><br>
+                <img src="citation.gif" width="37" height="37"> <a href="#data-citation">data citation</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="homepage.gif" width="37" height="37"> <a href="#web-presence">web presence</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="licenses.gif" width="37" height="37"> <a href="#licensing">licensing</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="publishing.gif" width="37" height="37"> <a href="#publishing">publishing</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <img src="reproducible.gif" width="37" height="37"> <a href="#reproducibility">reproducibility</a>
             </td>
         </tr>
         <tr>
-            <td>archive</td>
+            <td rowspan="4">archive</td>
             <td>
-                <img src="citation.gif" width="37" height="37"> <a href="#data-citation">data citation</a><br>
-                <img src="repository.gif" width="37" height="37"> <a href="#repositories">repositories</a><br>
-                <img src="api.gif" width="37" height="37"> <a href="#apis">APIs</a><br>
+                <img src="citation.gif" width="37" height="37"> <a href="#data-citation">data citation</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="repository.gif" width="37" height="37"> <a href="#repositories">repositories</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="api.gif" width="37" height="37"> <a href="#apis">APIs</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <img src="reproducible.gif" width="37" height="37"> <a href="#reproducibility">reproducibility</a>
             </td>
         </tr>
